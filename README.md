@@ -2,6 +2,9 @@
 
 Description: https://important-garage-9b5.notion.site/React-Fullstack-7240ccc791fa4eabbe422e7ee0bc373f
 
+![image](https://github.com/user-attachments/assets/6d4fd595-6304-4c69-b876-40f1f7050bb0)
+
+
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
